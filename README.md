@@ -7,7 +7,6 @@ Entry page & admin login:
 ![Screenshot (98)](https://github.com/91sahil/visitors-management-system/assets/163306713/b70757a0-2593-488b-aa7d-2248dd99ac4a)
 
 Visitors Details:
-![Screenshot (100)](https://github.com/91sahil/visitors-management-system/assets/163306713/a5737c7a-8875-4e42-afeb-9f4d9f153428)
 
 Delete Entry:
 ![Screenshot 2023-11-11 143537](https://github.com/91sahil/visitors-management-system/assets/163306713/07e12afd-50af-4161-b0a9-9f8afca3ab70)
